@@ -1,3 +1,3 @@
 # gymmanagement
 
-hello my gym repository conatain two files
+hello my gym repository contain two files

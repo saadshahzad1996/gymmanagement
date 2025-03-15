@@ -1,4 +1,3 @@
 # gymmanagement
 
-hello my gym repository contain two files
-saad ok
+This is y clone repository
